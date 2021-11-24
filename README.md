@@ -9,7 +9,7 @@ El archivo pdf contiene la descripción de la propuesta del programa para la sol
 El unitypackage presenta una propuesta gráfica de la solución. Este archivo contiene una escena con un jugador en primera persona dentro de un almacén
 con puertas, estantes, cajas, tanques, etc. y robots en posiciones al azar de dos modelos distintos (5 robots pequeños  y dos grandes), de los cuales algunos cargan cajas. 
 Estos robots avanzan por los caminos libres de obstaculos siguiendo caminos al azar. Los robots tardan una cantidad de segundos en encontrar un nuevo camino
-y tienen una velocidad al azar. Cada robot cuenta con una fuente de luz puntual de diferentes colores e intensidades que se mueven con ellos.
+y tienen una velocidad al azar. Cada robot cuenta con una fuente de luz puntual de diferentes colores e intensidades que se mueve con ellos.
 
 Algunos objetos de la escena estan coloreados por cara con ayuda de pro builder y otros fueron texturizados con mapeo uv también mediante pro builder.
 Estos objetos se encuentran en la jerarquía en el siguiente orden y con los siguientes nombres:
