@@ -24,6 +24,8 @@ Texturizados:
 - Box Texture 2: (Robot Box 3 > Box Texture 2 )
 
 
+
+
 Recursos utilizados para unity:
 
 Animaciones:
